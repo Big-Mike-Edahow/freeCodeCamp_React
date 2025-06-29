@@ -1,4 +1,4 @@
-// index.js
+// index.jsx
 
 export const Navbar = () => {
     return (
